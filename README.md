@@ -1,16 +1,60 @@
-### Hi there 👋
 
-<!--
-**hamzaajaved/hamzaajaved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Hamza Javed</h1>
+<h3 align="center">A passionate Programmer from Pakistan</h3>
 
-Here are some ideas to get you started:
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working at **Koderlabs in Karachi**
+
+- 🌱 I’m currently learning **Backend Development**
+
+- 👨‍💻 All of my projects are available at 
+
+- 💬 Ask me about **JavaScript, React, React Native, NextJS, VueJS**
+
+- 📫 How to reach me **hamzajaved091@gmail.com**
+
+- ⚡ Fun fact **I think I'm funny**
+
+<br>
+
+
+<h3 align="left">Languages and Tools:</h3>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,materialui,bootstrap,sass" />
+  </a>
+</p>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,redis" />
+  </a>
+</p>
+
+
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+  </a>
+</p>
+
+- Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,firebase," />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,vscode,postman,linux" />
+  </a>
+</p>
