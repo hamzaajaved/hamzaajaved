@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hamzajaved091@gmail.com**
 
-- ⚡ Fun fact
+- ⚡ Fun fact **I'm Always Eager to Learn More!**
 
 <br>
 
