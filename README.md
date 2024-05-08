@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hamzajaved091@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact
 
 <br>
 
