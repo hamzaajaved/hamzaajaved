@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available at **https://hamzajaved.vercel.app/**
 
 - 💬 Ask me about **JavaScript, React, React Native, NextJS, VueJS**
 
